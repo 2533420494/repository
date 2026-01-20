@@ -380,4 +380,4 @@ st.markdown("""
 - **运行环境**: 纯CPU，无需GPU
 """)
 
-st.caption("💡 MaterialAI Student Edition v1.0 |  2026年1月20日")
+st.caption("💡 MaterialAI Student Edition v1.0 |2026年1月20日")
